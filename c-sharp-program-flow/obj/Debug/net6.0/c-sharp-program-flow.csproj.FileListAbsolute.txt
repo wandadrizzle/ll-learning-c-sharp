@@ -1,0 +1,15 @@
+/home/runner/ll-learning-c-sharp/c-sharp-program-flow/bin/Debug/net6.0/c-sharp-program-flow
+/home/runner/ll-learning-c-sharp/c-sharp-program-flow/bin/Debug/net6.0/c-sharp-program-flow.deps.json
+/home/runner/ll-learning-c-sharp/c-sharp-program-flow/bin/Debug/net6.0/c-sharp-program-flow.runtimeconfig.json
+/home/runner/ll-learning-c-sharp/c-sharp-program-flow/bin/Debug/net6.0/c-sharp-program-flow.dll
+/home/runner/ll-learning-c-sharp/c-sharp-program-flow/bin/Debug/net6.0/c-sharp-program-flow.pdb
+/home/runner/ll-learning-c-sharp/c-sharp-program-flow/obj/Debug/net6.0/c-sharp-program-flow.csproj.AssemblyReference.cache
+/home/runner/ll-learning-c-sharp/c-sharp-program-flow/obj/Debug/net6.0/c-sharp-program-flow.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/ll-learning-c-sharp/c-sharp-program-flow/obj/Debug/net6.0/c-sharp-program-flow.AssemblyInfoInputs.cache
+/home/runner/ll-learning-c-sharp/c-sharp-program-flow/obj/Debug/net6.0/c-sharp-program-flow.AssemblyInfo.cs
+/home/runner/ll-learning-c-sharp/c-sharp-program-flow/obj/Debug/net6.0/c-sharp-program-flow.csproj.CoreCompileInputs.cache
+/home/runner/ll-learning-c-sharp/c-sharp-program-flow/obj/Debug/net6.0/c-sharp-program-flow.dll
+/home/runner/ll-learning-c-sharp/c-sharp-program-flow/obj/Debug/net6.0/refint/c-sharp-program-flow.dll
+/home/runner/ll-learning-c-sharp/c-sharp-program-flow/obj/Debug/net6.0/c-sharp-program-flow.pdb
+/home/runner/ll-learning-c-sharp/c-sharp-program-flow/obj/Debug/net6.0/c-sharp-program-flow.genruntimeconfig.cache
+/home/runner/ll-learning-c-sharp/c-sharp-program-flow/obj/Debug/net6.0/ref/c-sharp-program-flow.dll
